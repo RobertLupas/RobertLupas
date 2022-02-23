@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=half-real-scracx" alt="half-real-scracx" /></a> </p>
 
-- I’m currently working on [WebDeck](https://github.com/compact-blast-development/WebDeck)
+- I’m currently working on... well nothing rn, but I'm always searching for a new bright idea to work on! :)
 
 - 🌱 I’m currently learning **A lot of things ;)**
 
