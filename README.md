@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=half-real-scracx" alt="half-real-scracx" /></a> </p>
 
-- I’m currently working on... well nothing rn, but I'm always searching for a new bright idea to work on! :)
+- I’m currently working on <a href="https://github.com/half-real-SCRACX/SEA-Loader">Sea Loader</a>, a Texture/Mod loader for s game I really like, Townscaper.
 
 - 🌱 I’m currently learning **A lot of things ;)**
 
 - Some of my projects are available at [https://github.com/half-real-SCRACX](https://github.com/half-real-SCRACX)
-
-- 📝 I sometimes write articles on [https://yourtechpack.blogspot.com/](https://yourtechpack.blogspot.com/)
 
 - ⚡ Fun fact **If you write Fun Fact 99% people will read it, like you just did now! You are one of the 99% of that humans LOL**
 
