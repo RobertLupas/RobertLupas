@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=half-real-scracx" alt="half-real-scracx" /></a> </p>
 
-- I’m currently working on <a href="https://github.com/half-real-SCRACX/SEA-Loader">Sea Loader</a>, a Texture/Mod loader for s game I really like, Townscaper.
+- I’m currently working on <a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, the only CSS framework you need.
 
 - 🌱 I’m currently learning **A lot of things ;)**
 
