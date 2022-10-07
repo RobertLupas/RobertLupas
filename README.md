@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, call me Robert.</h1>
-<h3 align="center">A passionate frontend (but not only) developer.</h3>
+<h3 align="center">My favourite is frontend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="half-real-scracx" /> </p>
 
