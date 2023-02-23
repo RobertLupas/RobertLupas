@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, call me Robert.</h1>
-<h3 align="center">My favourite is frontend.</h3>
+<h2 align="center">Hi 👋, call me Robert.</h1>
+Hey there, I'm Robert, also known as SCRACX online. I'm a 14-year-old who enjoys tinkering with code, especially in JavaScript. I love building fun web projects using HTML, CSS, and JavaScript, and experimenting with new web technologies like Node.js. I'm also passionate about game development, and enjoy building my own games using Unity in a pixel art style.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="half-real-scracx" /> </p>
+When I'm not coding, you can find me exploring my other hobbies. I'm an avid gamer and enjoy playing a variety of video games, including modding Minecraft. I also love snapping pics with my camera, and capturing aerial footage with my drone.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=half-real-scracx" alt="half-real-scracx" /></a> </p>
+I'm always open to learning something new and meeting new people, so feel free to drop me a message or connect with me on social media. Let's chat and share our interests!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="half-real-scracx" /> </p>
 
-- I’m currently working on <a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, the only CSS framework you need.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=half-real-scracx" alt="half-real-scracx" /></a> </p>
+
+- I’m currently working on <a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, a CSS framework you need to try.
 
 - 🌱 I’m currently learning **A lot of things ;)**
 
