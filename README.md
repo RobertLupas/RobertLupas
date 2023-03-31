@@ -1,19 +1,20 @@
-<h2 align="center">Hi 👋, call me Robert.</h1>
-Hey there, I'm Robert, also known as SCRACX online. I'm a 14-year-old who enjoys tinkering with code, especially in JavaScript. I love building fun web projects using HTML, CSS, and JavaScript, and experimenting with new web technologies like Node.js. I'm also passionate about game development, and enjoy building my own games using Unity in a pixel art style.
+<h3 align="center"><img style="float:left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<img style="float:right" src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="Profile Vies Counter"/></h3>
 
-When I'm not coding, you can find me exploring my other hobbies. I'm an avid gamer and enjoy playing a variety of video games, including modding Minecraft. I also love snapping pics with my camera, and capturing aerial footage with my drone.
+<p>🚀 I'm a 14-year-old web developer with a passion for JavaScript. I love creating websites and fun web projects using HTML, CSS, and JavaScript. I like working with Node.js to develop robust web applications and enhance my skills.</p>
 
-I'm always open to learning something new and meeting new people, so feel free to drop me a message or connect with me on social media. Let's chat and share our interests!
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="half-real-scracx" /> </p>
+<p>🎮 Aside from my enthusiasm for web development, I also enjoy game development, creating my own games in Unity with a pixel art style. When I'm not coding, I love indulging in my other hobbies, such as playing video games, modding Minecraft, and exploring photography and drones.</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=half-real-scracx" alt="half-real-scracx" /></a> </p>
+<p>🪛 I'm always keen to learning something new and meeting new people, so feel free to drop me a message or connect with me on social media.</p>
 
-- I’m currently working on <a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, a CSS framework you need to try.
+<p>💻 I'm working on a personal website but for now, I think <a href="https://scracx.carrd.co/">this one</a> is good enough 😉</p>
 
-- 🌱 I’m currently learning **A lot of things ;)**
+<p>🛠️ I’m currently working on:</p>
+<ul>
+<li><a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, a CSS framework you need to try</li>
+<li><a href="https://github.com/half-real-SCRACX/CU.JS">Common Utilities.JS</a>, /insert explanation here/</li>
+</ul>
 
-- Some of my projects are available at [https://github.com/half-real-SCRACX](https://github.com/half-real-SCRACX)
-
+Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
