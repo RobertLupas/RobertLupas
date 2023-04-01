@@ -14,6 +14,8 @@
 <li><a href="https://github.com/half-real-SCRACX/CU.JS">Common Utilities.JS</a>, /insert explanation here/</li>
 </ul>
 
+Discord: SCRACX#1770
+
 Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX)
 
 <h3 align="left">Languages and Tools:</h3>
