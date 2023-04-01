@@ -1,16 +1,16 @@
 <h3 align="center"><img style="float:left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<img style="float:right" src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="Profile Vies Counter"/></h3>
 
-<p>🚀 I'm a 14-year-old web developer with a passion for JavaScript. I love creating websites and fun web projects using HTML, CSS, and JavaScript. I like working with Node.js to develop robust web applications and enhance my skills.</p>
+🚀 I'm a 14-year-old web developer with a passion for JavaScript. I love creating websites and fun web projects using HTML, CSS, and JavaScript. I like working with Node.js to develop robust web applications and enhance my skills.
 
-<p>🎮 Aside from my enthusiasm for web development, I also enjoy game development, creating my own games in Unity with a pixel art style. When I'm not coding, I love indulging in my other hobbies, such as playing video games, modding Minecraft, and exploring photography and drones.</p>
+🎮 Aside from my enthusiasm for web development, I also enjoy game development, creating my own games in Unity with a pixel art style. When I'm not coding, I love indulging in my other hobbies, such as playing video games, modding Minecraft, and exploring photography and drones.
 
-<p>🪛 I'm always keen to learning something new and meeting new people, so feel free to drop me a message or connect with me on social media.</p>
+🪛 I'm always keen to learning something new and meeting new people, so feel free to drop me a message or connect with me on social media.
 
-<p>💻 I'm working on a personal website but for now, I think <a href="https://scracx.carrd.co/">this one</a> is good enough 😉</p>
+💻 I'm working on a personal website but for now, I think <a href="https://scracx.carrd.co/">this one</a> is good enough 😉
 
-**Discord**: SCRACX#1770
+💬 **Discord**: SCRACX#1770
 
-<p>🛠️ I’m currently working on:</p>
+🛠️ I’m currently working on:
 <ul>
 <li><a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, a CSS framework you need to try</li>
 <li><a href="https://github.com/half-real-SCRACX/CU.JS">Common Utilities.JS</a>, /insert explanation here/</li>
