@@ -8,13 +8,13 @@
 
 <p>💻 I'm working on a personal website but for now, I think <a href="https://scracx.carrd.co/">this one</a> is good enough 😉</p>
 
+**Discord**: SCRACX#1770
+
 <p>🛠️ I’m currently working on:</p>
 <ul>
 <li><a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, a CSS framework you need to try</li>
 <li><a href="https://github.com/half-real-SCRACX/CU.JS">Common Utilities.JS</a>, /insert explanation here/</li>
 </ul>
-
-Discord: SCRACX#1770
 
 Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX)
 
