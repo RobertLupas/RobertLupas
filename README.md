@@ -12,8 +12,7 @@
 
 🛠️ I’m currently working on:
 <ul>
-<li><a href="https://github.com/half-real-SCRACX/Fold">Fold</a>, a CSS framework you need to try</li>
-<li><a href="https://github.com/half-real-SCRACX/CU.JS">Common Utilities.JS</a>, /insert explanation here/</li>
+<li><a href="https://github.com/half-real-SCRACX/Flare">Flare</a> A modern UI toolkit for building beautiful and consistent desktop apps with Electron</li>
 </ul>
 
 Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX)
