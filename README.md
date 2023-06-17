@@ -8,7 +8,7 @@
 
 💻 I'm working on a personal website but for now, I think <a href="https://scracx.carrd.co/">this one</a> is good enough 😉
 
-💬 **Discord**: SCRACX#1770
+💬 **Discord**: @scracx
 
 🛠️ I’m currently working on:
 <ul>
