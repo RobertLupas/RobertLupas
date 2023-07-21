@@ -1,4 +1,5 @@
-<h3 align="center"><img style="float:left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<img style="float:right" src="https://komarev.com/ghpvc/?username=half-real-scracx&label=Profile%20views&color=435b6b&style=flat" alt="Profile Vies Counter"/></h3>
+<h3 align="center"><img style="float:left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<a href="https://www.instagram.com/_that_robert_/"><img align="right" src="https://skillicons.dev/icons?i=instagram"/></a>
+</h3>
 
 🚀 I'm a 14-year-old web developer with a passion for coding. I love creating websites and web projects using web technologies, but also plain old HTML, CSS, and JavaScript. I like working with Node.js to develop robust web applications and enhance my skills.
 
