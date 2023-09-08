@@ -1,11 +1,11 @@
 <h3 align="center"><img style="float:left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<a href="https://www.instagram.com/_that_robert_/"><img align="right" src="https://skillicons.dev/icons?i=instagram"/></a>
 </h3>
 
-🚀 I'm a 14-year-old web developer with a passion for coding. I love creating websites and web projects using web technologies, but also plain old HTML, CSS, and JavaScript. I like working with Node.js to develop robust web applications and enhance my skills.
+🚀 I'm a 14-year-old coder with a passion for web development, but not only. I love creating websites and web projects using differen technologies like Node.js+Electron.js, but also plain HTML, CSS, and JavaScript.
 
 ⚙️ I also like desktop development with C++ and other languages. Currently, I'm learning Java.
 
-🎮 Aside from my enthusiasm for web and desktop development, I enjoy game development, creating my own games in Unity with a pixel art style. When I'm not coding, I love indulging in my other hobbies, such as playing video games, modding Minecraft, and exploring photography and drones.
+🎮 Aside from my enthusiasm for web and desktop development, I enjoy game development, creating my own games in Unity with mostly a pixel art style. When I'm not coding, I love indulging in my other hobbies, such as playing video games, modding Minecraft, and exploring photography and drones.
 
 🪛 I'm always keen to learn something new and meet new people, so feel free to drop me a message or connect with me on social media.
 
