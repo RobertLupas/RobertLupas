@@ -15,7 +15,7 @@
 
 🛠️ I’m currently working on:
 <ul>
-<li>A better personal website</li>
+<li>A better personal website 😆</li>
 <li><a href="https://github.com/half-real-SCRACX/Flare">Flare</a> A modern UI toolkit for building beautiful and consistent desktop apps with Electron</li>
 </ul>
 
