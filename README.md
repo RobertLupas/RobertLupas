@@ -21,6 +21,8 @@
 
 Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX?tab=repositories)
 
+[![An image of @halfrealscracx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/halfrealscracx)](https://holopin.io/@halfrealscracx)
+
 <h3 align="center">My skills, languages, and tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
