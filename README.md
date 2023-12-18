@@ -1,4 +1,4 @@
-<h3 align="center"><img style="float:left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<a href="https://www.instagram.com/_that_robert_/"><img align="right" src="https://skillicons.dev/icons?i=instagram"/></a>
+<h3 align="center"><img align="left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>Hi 👋, call me Robert<a href="https://www.instagram.com/_that_robert_/"><img align="right" src="https://skillicons.dev/icons?i=instagram"/></a>
 </h3>
 
 🚀 I'm a 14-year-old coder with a passion for web development, but not only. I love creating websites and web projects using differen technologies like Node.js+Electron.js, but also plain HTML, CSS, and JavaScript.
