@@ -9,14 +9,15 @@
 
 🪛 I'm always keen to learn something new and meet new people, so feel free to drop me a message or connect with me on social media.
 
-💻 I'm working on a personal website but for now, I think <a href="https://scracx.carrd.co/">this one</a> is good enough 😉
+💻 I'm working on a personal website but for now, <a href="https://robert-l.netlify.app/">this one</a>... exists... 😂
 
 💬 **Discord**: @scracx
 
 🛠️ I’m currently working on:
 <ul>
 <li>A better personal website 😆</li>
-<li><a href="https://github.com/half-real-SCRACX/Flare">Flare</a> A modern UI toolkit for building beautiful and consistent desktop apps with Electron</li>
+<li><a href="https://github.com/half-real-SCRACX/SentiSense">SentiSense</a>, An AI model built to understand the sentiments transmitted through a phrase.</li>
+<li><a href="https://github.com/half-real-SCRACX/Flare">Flare</a>, A modern UI toolkit for building beautiful and consistent desktop apps with Electron</li>
 </ul>
 
 Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX?tab=repositories)
