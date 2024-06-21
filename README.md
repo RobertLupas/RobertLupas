@@ -9,7 +9,7 @@
 
 🪛 I'm always keen to learn something new and meet new people, so feel free to drop me a message or connect with me on social media.
 
-💻 I'm working on a personal website but for now, [this one](https://github.com/RobertLupas) exists 😄
+💻 I'm working on a personal website but for now, [this one](https://robertlupas.carrd.co/) exists 😄
 
 💬 **Discord**: @scracx
 
