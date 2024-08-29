@@ -6,12 +6,12 @@
   </a>
 </h3>
 
-🚀 I'm a 15-year-old coder with a passion for coding. I love creating new projects and experimenting with new stuff.
+🚀 I'm a 15-year-old coder with a passion for programming. I love creating new projects and experimenting with new stuff.
 
 🛠️ I’m currently working on:
 <ul>
   <li>A better personal website 😆</li>
-  <li><a href="https://github.com/RobertLupas/RayTracing-Lab">RayTracing Lab</a>, A rendering engine made in C++. It's just a hobby project (for now), and not an actual "product"</li>
+  <li><a href="https://github.com/RobertLupas/RayTracing-Lab">RayTracing Lab</a>, a rendering engine made in C++. It's just a hobby project (for now), and not an actual "product"</li>
 </ul>
 
 Some of my projects are available here, on [GitHub](https://github.com/half-real-SCRACX?tab=repositories)
