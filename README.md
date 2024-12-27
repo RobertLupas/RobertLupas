@@ -6,7 +6,7 @@
   </a>
 </h3>
 
-🚀 I'm a 15-year-old coder with a passion for programming. I love creating new projects and experimenting with new stuff.
+🚀 I'm a 16-year-old coder with a passion for programming. I love creating new projects and experimenting with new stuff.
 
 🛠️ I’m currently working on:
 <ul>
