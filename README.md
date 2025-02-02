@@ -1,6 +1,6 @@
 <h3 align="center">
   <img align="left" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Coding-blue?style=flat" alt="I ❤️ Coding"/>
-  Hi 👋, call me Robert
+  Hi 👋, I'm Robert
 </h3>
 
 🚀 I'm a 16-year-old coder with a passion for programming. I love creating new projects and experimenting with new stuff.
