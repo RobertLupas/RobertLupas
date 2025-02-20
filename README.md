@@ -7,7 +7,7 @@
 - [Code for my FTC robotics team's robot](https://github.com/PrimeTech-Robotics/FTC-Into-The-Deep-RoadRunner) (this is an older, archived, public version, with not much in it)
 - [RayTracing Lab](https://github.com/RobertLupas/RayTracing-Lab), a rendering engine made in C++. It's just a hobby project (for now), and not an actual "product"
 
-Some of my projects are available here, [on GitHub](https://github.com/RobertLupas?tab=repositories)
+Some of my projects are available here, [on GitHub](https://github.com/RobertLupas?tab=repositories). Check 'em out!
 
 <h3 align="center">My skills and tools</h3>
 <p align="center">
