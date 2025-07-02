@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Robert <img align="right" src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Tech-blue?style=flat" alt="I ❤️ Tech"/>
 
-> 📫 Let's Connect
+> ### 📫 Let's Connect
 > 
 > Reach me on [LinkedIn](https://www.linkedin.com/in/robertlupas/) or at robertlupas09@gmail.com
 
