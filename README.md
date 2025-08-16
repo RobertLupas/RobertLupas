@@ -19,6 +19,18 @@ Some of my work is available here, [on my GitHub](https://github.com/RobertLupas
 
 🛠 More cool stuff coming soon.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 <h3 align="center">My skills and tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,nodejs,bun,cpp,java,kotlin,vscode,visualstudio,replit,postman&theme=dark" />
