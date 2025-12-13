@@ -2,7 +2,7 @@
 
 > ### 📫 Let's Connect
 > 
-> Reach me on [LinkedIn](https://www.linkedin.com/in/robertlupas/) or at robertlupas09@gmail.com
+> Reach me on [LinkedIn](https://www.linkedin.com/in/robertlupas/) or at contact@robertlupas.com
 
 🚀 I'm a 16-year-old developer who loves experimenting & building things from the ground up — from web apps to autonomous robots to embedded and IoT devices and more.
 
@@ -10,10 +10,11 @@
 
 ### 🛠️ I’m currently working on:
 - A better personal website 😆
-- [Code for my FTC robotics team's robot](https://github.com/PrimeTech-Robotics/FTC-Into-The-Deep-RoadRunner)
-  > This is an older version, with not much in it. I'll publish the new code once the season is over
+- [Code for my FTC robotics team's robot](https://github.com/PrimeTech-Robotics/FTC-Into-The-Deep)
+  > This is last season's version, for competitive reasons, but you could find the stuff in the PrimeTechV3 directory useful :)
 - [RayTracing Lab](https://github.com/RobertLupas/RayTracing-Lab), a rendering engine made in C++. It's just a hobby project (for now)
-- and more, but these are the projects I like the most
+  > I haven't worked on this in a while, but it might be interesting to read through, or even use as a starting point.
+- and more, but these are the projects I like the most and can publicly share at the moment.
 
 Some of my work is available here, [on my GitHub](https://github.com/RobertLupas?tab=repositories). Check 'em out!
 
