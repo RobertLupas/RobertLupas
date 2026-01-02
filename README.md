@@ -4,7 +4,7 @@
 > 
 > Reach me on [LinkedIn](https://www.linkedin.com/in/robertlupas/) or at contact@robertlupas.com
 
-🚀 I'm a 16-year-old developer who loves experimenting & building things from the ground up — from web apps to autonomous robots to embedded and IoT devices and more.
+🚀 I'm a 17-year-old developer who loves experimenting & building things from the ground up — from web apps to autonomous robots to embedded and IoT devices and more.
 
 - 🔧 Currently a programmer @ [PrimeTech Robotics](https://github.com/PrimeTech-Robotics)
 
