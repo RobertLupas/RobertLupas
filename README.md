@@ -9,7 +9,7 @@
 - 🔧 Currently a programmer @ [PrimeTech Robotics](https://github.com/PrimeTech-Robotics)
 
 ### 🛠️ I’m currently working on:
-- A better personal website 😆
+- A personal website 😆
 - [Code for my FTC robotics team's robot](https://github.com/PrimeTech-Robotics/FTC-Into-The-Deep)
   > This is last season's version, for competitive reasons, but you could find the stuff in the PrimeTechV3 directory useful :)
 - [RayTracing Lab](https://github.com/RobertLupas/RayTracing-Lab), a rendering engine made in C++. It's just a hobby project (for now)
