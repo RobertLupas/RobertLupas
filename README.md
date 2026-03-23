@@ -20,25 +20,31 @@ Some of my work is available here, [on my GitHub](https://github.com/RobertLupas
 
 🛠 More cool stuff coming soon.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="images/breakout-light.svg"
+    />
+    <img alt="Breakout Game" src="images/breakout-light.svg" />
+  </picture>
+</p>
 
 <h3 align="center">My skills and tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,nodejs,bun,cpp,java,kotlin,vscode,visualstudio,replit,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,nodejs,bun,cpp,java,kotlin,vscode,postman&theme=dark" />
   <br>
   (and more)
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobertLupas&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30791&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 </p>
