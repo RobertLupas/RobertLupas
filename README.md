@@ -16,7 +16,7 @@ I'm a 17-year-old dev experimenting & building things from the ground up - from 
   > I haven't worked on this in a while, but it might be interesting to read through, or even use as a starting point.
 - and more, but these are the projects I like the most and can publicly share at the moment.
 
-Some of my work is [on my GitHub](https://github.com/RobertLupas?tab=repositories&type=public).
+Some of my work is here, [on GitHub](https://github.com/RobertLupas?tab=repositories&type=public).
 
 More cool stuff coming soon.
 
