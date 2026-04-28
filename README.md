@@ -6,7 +6,7 @@
 
 I'm a 17-year-old dev experimenting & building things from the ground up - from web apps to autonomous robots to embedded and IoT devices and more.
 
-- Currently programming @ the [PrimeTech Robotics](https://github.com/PrimeTech-Robotics) FTC team
+- Programming dept. @ [PrimeTech Robotics](https://github.com/PrimeTech-Robotics) (FTC team)
 
 ### Working on:
 - A personal website 😆
@@ -34,9 +34,9 @@ More cool stuff coming soon.
   </picture>
 </p>
 
-<h3 align="center">My skills and tools</h3>
+<h3 align="center">Some of my favourite tech & tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,nodejs,bun,cpp,java,kotlin,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,astro,tailwind,alpinejs&theme=dark" />
   <br>
-  (and more)
+  <img src="https://skillicons.dev/icons?i=bun,nextjs,cloudflare,workers,kotlin,postman&theme=dark" />
 </p>
