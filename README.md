@@ -1,7 +1,5 @@
 ## 👋 Hey, I'm Robert
 
-> ### 📫 Let's Connect
-> 
 > Reach me on [LinkedIn](https://www.linkedin.com/in/robertlupas/) or at contact@robertlupas.com
 
 I'm a 17-year-old dev experimenting & building things from the ground up - from web apps to autonomous robots to embedded and IoT devices and more.
